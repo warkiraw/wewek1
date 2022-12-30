@@ -1,0 +1,32 @@
+{
+    "card one":{
+        "name":"Banana",
+        "descript":"Yellow fruit",
+        "price":500
+    },
+    "card two":{
+        "name":"Apple",
+        "descript":"Red fruit witj healthy bacterials",
+        "price":670
+    },
+    "card three":{
+        "name":"Guava",
+        "descript":"Inostrannii fruit",
+        "price":490
+    },
+    "card four":{
+        "name":"Orange",
+        "descript":"orange fruit with juice",
+        "price":2145
+    },
+    "card five":{
+        "name":"Mango",
+        "descript":"the best fruit",
+        "price":1420
+    },
+    "card six":{
+        "name":"Pineapple",
+        "descript":"Sponge bob fruit",
+        "price":321
+    }
+}
